@@ -1,16 +1,15 @@
-### Hi there 👋
+### Oi bem vindo ao meu perfil 🇧🇷
 
-<!--
-**kvrr9513/kvrr9513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é kamily vitória 🌈
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](httlps ://www.alura.com.br)
+- Tenho 15 anos 🌻
+- Estou ultilizando esse espaço para minhas criatividade e projetos 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###vamos entrar em contato comigo 📫
+
+kamily.ribas.rodrigues@escola.pr.gov.br
+
+@kvitoria9513
+
+![](https://media.tenor.com/l1Eq-DOUzqQAAAAM/hi-there.gif)
